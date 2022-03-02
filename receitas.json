@@ -1,0 +1,421 @@
+[
+    {
+        "id": 1,
+        "title": "Salada de polvo com grão",
+        "subtitle": "Em apenas 15 minutos, prepare esta salada de polvo e grão. Uma opção fresca, ideal para os dias de Verão, e muito fácil de cozinhar.",
+        "difficulty": "easy",
+        "time": 15,
+        "category": "fish",
+        "ingredients": [
+            {
+               "name": "polvo cozido",
+               "qty": "300g" 
+            },
+            {
+               "name": "grão cozido lata",
+               "qty": "1 unid." 
+            },
+            {
+               "name": "cebola roxa",
+               "qty": "50g" 
+            },
+            {
+               "name": "piminto colorido",
+               "qty": "250g" 
+            },
+            {
+               "name": "pepino",
+               "qty": "60g" 
+            },
+            {
+               "name": "tomate mini alongado",
+               "qty": "100g" 
+            },
+            {
+               "name": "azeite",
+               "qty": "4 c. de sopa" 
+            },
+            {
+               "name": "vinagre",
+               "qty": "3 c. sobremesa" 
+            },
+            {
+               "name": "salsa",
+               "qty": "2c. de sopa" 
+            },
+            {
+               "name": "ovo M",
+               "qty": "2 unid." 
+            }
+        ],
+        "preparation": [
+            "Corte o polvo em pedaços pequenos e coloque-o numa saladeira.",
+            "Deite o grão num coador, escorra bem e junte ao polvo.",
+            "Descasque, pique a cebola e adicione-a à saladeira.",
+            "Limpe os pimentos de sementes e corte-os em quadrados, o pepino em cubos e o tomate ao meio. Junte-os igualmente à saladeira. Regue com o azeite e o vinagre, acrescente a salsa picada e misture muito bem.",
+            "Deixe repousar pelo menos 30 minutos. Sirva com os ovos cortados em gomos."
+        ],
+        "image": "assets/salada-de-polvo-com-grao.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Caldo de peixe com legumes",
+        "subtitle": "Faça este caldo de peixe com legumes e utilize-o para a base de sopa de peixe. Preparado com as espinhas e pele de peixe e cascas de legumes, é uma receita sem desperdício alimentar.",
+        "difficulty": "medium",
+        "time": 90,
+        "category": "fish",
+        "ingredients": [
+            {
+               "name": "espinhas e pele de peixe",
+               "qty": "670g" 
+            },
+            {
+               "name": "cascas de cebola",
+               "qty": "70g" 
+            },
+            {
+               "name": "alho",
+               "qty": "1 dente" 
+            },
+            {
+               "name": "topos e pele de cenoura",
+               "qty": "70g" 
+            },
+            {
+               "name": "talos de aipo",
+               "qty": "75g" 
+            },
+            {
+               "name": "coentros",
+               "qty": "30g" 
+            },
+            {
+               "name": "malagueta vermelha",
+               "qty": "1 unid." 
+            },
+            {
+               "name": "louro",
+               "qty": "1 folha" 
+            },
+            {
+               "name": "agua",
+               "qty": "1,5L" 
+            }
+        ],
+        "preparation": [
+            "Ferva lenta e prolongadamente (1 a 2 horas) os ingredientes na água.",
+            "Se quiser, pode ainda acrescentar tiras de casca de limão.",
+            "Com uma escumadeira, vá retirando a espuma que se for formando.",
+            "No final, coe o caldo através de um coador de rede fina.",
+            "Congele em frascos ou cuvetes devidamente identificados."
+        ],
+        "image": "assets/caldo-de-peixe-com-legumes.jpg"
+    },   
+    {
+        "id": 3,
+        "title": "Corvina no forno com vegetais",
+        "subtitle": "Inclua mais refeições de peixe no dia a dia com receitas fáceis, como esta corvina no forno com vegetais. O sabor do tomate e a frescura dos vegetais grelhados fazem toda a diferença.",
+        "difficulty": "medium",
+        "time": 30,
+        "category": "fish",
+        "ingredients": [
+            {
+               "name": "batata para cozer pequena",
+               "qty": "500g" 
+            },
+            {
+               "name": "sal",
+               "qty": "3 c. de café" 
+            },
+            {
+               "name": "cebola",
+               "qty": "150g" 
+            },
+            {
+               "name": "tomate de rama maduro",
+               "qty": "400g" 
+            },
+            {
+               "name": "toucinho fumado magro",
+               "qty": "30g" 
+            },
+            {
+               "name": "corvina",
+               "qty": "2x500g" 
+            },
+            {
+               "name": "coentros",
+               "qty": "1/2 molho." 
+            },
+            {
+               "name": "limão",
+               "qty": "150g" 
+            },
+            {
+               "name": "pimentão doce",
+               "qty": "1 c. de sobremesa" 
+            },
+            {
+                "name": "azeite",
+                "qty": "3 c. de sobremesa"
+            },
+            {
+                "name": "vegetais grelhados congelados",
+                "qty": "400g"
+            }
+        ],
+        "preparation": [
+            "Pré-aqueça o forno a 185 °C, na função ventilada.",
+            "Lave muito bem as batatas e coza-as em água temperada com metade do sal.",
+            "Corte a cebola e o tomate em rodelas finas, espalhe sobre um tabuleiro de forno e salpique com o toucinho cortado em tiras finas. Por cima coloque os peixes e introduza os coentros e algumas rodelas finas de limão nas barrigas.",
+            "Coloque mais algumas rodelas de limão sobre os peixes, polvilhe com pimentão-doce, o restante sal e regue com metade do azeite.",
+            "Espalhe os vegetais sobre outro tabuleiro e regue com o restante azeite. Leve os tabuleiros ao forno por 25 minutos.",
+            "Sirva o peixe com as batatas cozidas e com os legumes."
+        ],
+        "image": "assets/corvina-pingo-doce.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Sopa de peixe com massa e tomate",
+        "subtitle": "Sempre que possível, aproveite as espinhas, cabeças e peles do peixe e prepare a sopa de peixe, saborosa e nutritiva sem desperdício alimentar. Delicie-se com esta sopa de peixe com massa e tomate de paladar particularmente irresistível.",
+        "difficulty": "easy",
+        "time": 45,
+        "category": "soup",
+        "ingredients": [
+            {
+               "name": "azeite",
+               "qty": "2 c. de sopa" 
+            },
+            {
+               "name": "cebola fatiada",
+               "qty": "100g" 
+            },
+            {
+               "name": "alho laminado",
+               "qty": "1 dente" 
+            },
+            {
+               "name": "louro",
+               "qty": "1 folha" 
+            },
+            {
+               "name": "cenoura em cubos",
+               "qty": "100g" 
+            },
+            {
+               "name": "tomate em cubos",
+               "qty": "390g" 
+            },
+            {
+               "name": "vinho branco",
+               "qty": "4 c. de sopa" 
+            },
+            {
+               "name": "peixe",
+               "qty": "1unid." 
+            },
+            {
+               "name": "sal",
+               "qty": "1 c. de sobremesa" 
+            },
+            {
+                "name": "sobras de peixe assado 50 g",
+                "qty": "50g"
+            },
+            {
+                "name": "massa cotovelinhos",
+                "qty": "70g"
+            },
+            {
+                "name": "coentros picados",
+                "qty": "2 c. de sopa"
+            },
+            {
+                "name": "hortelã",
+                "qty": "3 folhas"
+            }
+            
+        ],
+        "preparation": [
+            "Aqueça o azeite num tacho e refogue a cebola e o alho, juntamente com a folha de louro. Quando a cebola estiver translúcida, junte a cenoura e o tomate em cubos e envolva bem. Refresque com o vinho branco.",
+            "Junte a cabeça de peixe e a espinha, cubra com água, tempere com o sal e deixe cozinhar em lume médio durante 30 minutos.",
+            "Passe o caldo por um coador, volte a deitar no tacho e leve de novo ao lume. Retire a carne da cabeça e das espinhas e junte-a às sobras de peixe.",
+            "Quando o caldo ferver, adicione-lhe todas as sobras de peixe, os cotovelos, metade dos coentros e da hortelã e aguarde até a massa estar al dente. Desligue o lume e deixe repousar 5 a 10 minutos. Salpique com os restantes coentros e hortelã e sirva de imediato."
+        ],
+        "image": "assets/sopa-de-peixe-com-massa-e-tomate.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Sopa de alface",
+        "subtitle": "Tem sobras de salada de alface e não como aproveitar? Experimente esta receita de sopa de alface e prepare um prato delicioso e sem desperdício alimentar.",
+        "difficulty": "easy",
+        "time": 35,
+        "category": "soup",
+        "ingredients": [
+            {
+               "name": "azeite",
+               "qty": "2 c. de sopa" 
+            },
+            {
+               "name": "sal",
+               "qty": "1 c. de sobremesa" 
+            },
+            {
+               "name": "cebola",
+               "qty": "100g" 
+            },
+            {
+               "name": "alho-francês",
+               "qty": "100g" 
+            },
+            {
+               "name": "batata",
+               "qty": "250g" 
+            },
+            {
+               "name": "courgette",
+               "qty": "2500g" 
+            },
+            {
+               "name": "sobras de salada de alface",
+               "qty": "150g." 
+            },
+            {
+               "name": "água",
+               "qty": "1L" 
+            },
+            {
+               "name": "coentros",
+               "qty": "1 q.b." 
+            },
+            {
+                "name": "pimenta de moinho",
+                "qty": "1 q.b."
+            }
+        ],
+        "preparation": [
+            "Numa panela com o azeite, leve ao lume a cebola descascada e picada, e o alho-francês cortado em rodelas.",
+            "Descasque as batatas e lave a courgette, corte-as em cubos pequenos e deite na panela. Tempere com o sal, adicione as sobras da salada e a água a ferver. Coza tapado durante cerca de 25 minutos ou até os legumes estarem tenros.",
+            "Junte uma mão-cheia de folhas de coentros à sopa e triture com a varinha mágica",
+            "Distribua pelos pratos, tempere com pimenta moída na altura e enfeite com folhas de coentros."            
+        ],
+        "image": "assets/sopa-de-alface.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Alheira assada no forno",
+        "subtitle": "Viaje pelos sabores transmontanos com esta receita de alheira assada no forno com grelos de couve e batata cozida, um prato verdadeiramente irresistível.",
+        "difficulty": "medium",
+        "time": 45,
+        "category": "meat",
+        "ingredients": [
+            {
+               "name": "grelo de couve limpos",
+               "qty": "600g" 
+            },
+            {
+               "name": "batata para cozer média",
+               "qty": "600g" 
+            },
+            {
+               "name": "sal",
+               "qty": "2 c. de sobremesa" 
+            },
+            {
+               "name": "azeite",
+               "qty": "4 c. de sopa" 
+            },
+            {
+               "name": "alheira de Mirandela",
+               "qty": "800g" 
+            },
+            {
+               "name": "alho",
+               "qty": "3 dentes" 
+            },
+            {
+               "name": "pimentão doce",
+               "qty": "1 c. de sobremesa" 
+            },
+            {
+               "name": "pão",
+               "qty": "200g" 
+            }
+        ],
+        "preparation": [
+            "Pré-aqueça o forno a 180 °C.",
+            "Coza separadamente os grelos e as batatas em água temperada com uma colher de chá de sal, até estarem tenros.",
+            "Deite duas colheres de sopa de azeite numa frigideira que possa ir ao forno. Pique as alheiras várias vezes com um palito, coloque-as na frigideira e cozinhe durante cerca de 30 minutos, virando-as a meio do tempo.",
+            "Quando os grelos e as batatas estiverem cozidos, escorra-os muito bem.",
+            "Pele as batatas e corte-as em rodelas grossas.",
+            "Disponha os grelos e as alheiras num prato e mantenha-os quentes dentro do forno já desligado.",
+            "Leve a frigideira onde cozinhou as alheiras ao lume, polvilhe com o pimentão-doce e deite nela as rodelas de batata. Salteie de ambos os lados sobre lume médio a forte, até ficarem douradas. Sirva as batatas com as alheiras e os grelos. Acompanhe com o pão."
+        ],
+        "image": "assets/alheira-assada-no-forno.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Lombo de novilho Angus com legumes",
+        "subtitle": "O lombo de novilho Angus com legumes combina na perfeição com o puré de cenoura e laranja, e fica pronto em apenas 15 minutos. Uma receita a não perder.",
+        "difficulty": "easy",
+        "time": 15,
+        "category": "meat",
+        "ingredients": [
+            {
+               "name": "cenoura",
+               "qty": "150g" 
+            },
+            {
+               "name": "laranja (sumo)",
+               "qty": "3 unid." 
+            },
+            {
+               "name": "bimi",
+               "qty": "100g" 
+            },
+            {
+               "name": "legumes grelhados congelados",
+               "qty": "3 c. de sopa" 
+            },
+            {
+               "name": "bife do lombo de novilho Angus",
+               "qty": "400g" 
+            },
+            {
+               "name": "alho",
+               "qty": "2 dentes" 
+            },
+            {
+               "name": "molho de soja",
+               "qty": "50 ml" 
+            },
+            {
+               "name": "mel",
+               "qty": "1 + ½ c. de sopa" 
+            },
+            {
+               "name": "cebolinho",
+               "qty": "10 g" 
+            },
+            {
+                "name": "cebola frita",
+                "qty": "20g"
+            },
+            {
+                "name": "flor de sal",
+                "qty": "1 c. de sobremesa"
+            }
+        ],
+        "preparation": [
+            "Pré-aqueça o forno a 140 °C.",
+            "Descasque a cenoura, corte em rodelas e cozinhe com o sumo de laranja por 15 minutos.",
+            "Triture em puré. Coza os bimis por 2 minutos e arrefeça-os em água corrente.",
+            "Numa frigideira, com o azeite bem quente, sele a carne durante 3 minutos de cada lado. De seguida enrole-a em papel de alumínio e deixe repousar por 6 minutos.",
+            "Espalhe os vegetais sobre outro tabuleiro e regue com o restante azeite. Leve os tabuleiros ao forno por 25 minutos.",
+            "Na mesma frigideira, salteie os bimis e deixar tostar um pouco. No final, junte o alho, descascado e cortado em rodelas finas. Retire e reserve.",
+            "Refresque a frigideira com o molho de soja, junte o mel e regue a carne com esta mistura.",
+            "Polvilhe com o cebolinho picado, cebola frita e flor de sal. Sirva com os legumes."
+        ],
+        "image": "assets/lombo-de-novilho-angus-com-legumes.jpeg"
+    }    
+]

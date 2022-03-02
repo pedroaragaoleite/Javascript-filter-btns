@@ -1,0 +1,147 @@
+/*
+============
+Fonts
+============
+*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+
+/*
+============
+Variables
+============
+*/
+
+:root {
+  --ff--primary: "Roboto Condensed", sans-serif;
+  --ff-secondary: "Open Sans", sans-serif;
+  --radius: 0.5rem;
+  --clr-black: #000000;
+  --clr-white: #ffffff;
+  --clr-gold: #c59d5f;
+  /* grey used for paragraphs */
+  --clr-grey-1: hsl(210, 22%, 49%);
+  --clr-grey-2: hsl(209, 23%, 60%);
+  --clr-grey-3: hsl(211, 27%, 70%);
+  --clr-grey-4: hsl(210, 31%, 80%);
+  --clr-grey-5: hsl(212, 33%, 89%);
+  --clr-grey-6: hsl(210, 36%, 96%);
+}
+
+/*
+============
+Global styles
+============
+*/
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--ff--primary);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+p {
+  color: var(--clr-grey-1);
+}
+
+/*
+===============
+Global classes
+===============
+*/
+
+section {
+  width: 100%;
+  height: 100vh;
+  padding: 2rem 2rem;
+}
+.recipes__item {
+  margin-bottom: 2rem;
+}
+.recipes__title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.recipes__img {
+  border: 4px solid var(--clr-gold);
+}
+.recipes__name {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.recipes__btns {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.filter-btn {
+  display: inline-block;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  background: transparent;
+  padding: 0.375rem 0.875rem;
+  cursor: pointer;
+  border: 2px solid var(--clr-black);
+  border-radius: var(--radius);
+  letter-spacing: 0.275rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+.filter-btn:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.filter-btn:hover {
+  color: var(--clr-white);
+  background-color: var(--clr-black);
+}
+.underline {
+  margin: 0 auto;
+  width: 150px;
+  height: 4px;
+  background-color: var(--clr-grey-1);
+}
+
+@media screen and (min-width: 600px) {
+  .recipes__center {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .recipes__center {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
