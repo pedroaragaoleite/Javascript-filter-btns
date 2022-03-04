@@ -18,7 +18,7 @@ xhr.onreadystatechange = function() {
         // function display recipes buttons
         function displayRecipesButtons() {
             // Add category "All" to all recipes
-            const categories = recipes.reduce(
+              const categories = recipes.reduce(
               function (values, item) {
                   // add categoty to the array
                 if (!values.includes(item.category)) {
